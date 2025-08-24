@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/SCeLees/ShitTTS/blob/main/LICENSE)
 
-ShitTTS 是一个旨在简化文本转语音操作的工具集，包含图形界面 (GUI) 和命令行 (CLI) 两个版本。它基于 `pyttsx3` 库构建，能够直接调用系统自带的 TTS 引擎进行语音合成。
+ShitTTS 是一个旨在简化文本转语音操作的工具集，包含图形界面 (GUI) 和命令行 (CLI) 两个版本。它基于 `pyttsx3` 库构建，能够直接调用系统自带的 TTS 引擎进行语音合成。  
 使用Pyinstaller打包
 
 ---
