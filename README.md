@@ -6,7 +6,7 @@ ShitTTS 是一个旨在简化文本转语音操作的工具集，包含图形界
 使用Pyinstaller打包  
 
 <div align="center">
-  <img src="./assets/ShitTTS.png" alt="icon" width="500">
+  <img src="./assets/ShitTTS.png" alt="icon" width="250">
 </div>
 
 说明：  
