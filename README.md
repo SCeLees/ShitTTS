@@ -10,7 +10,7 @@ ShitTTS 是一个旨在简化文本转语音操作的工具集，包含图形界
 </div>
 
 说明：  
-图标来源于Google Emoji Kitchen
+图标来源于Google Emoji Kitchen  
 **这个项目就是个垃圾**  
 **别用**
 
