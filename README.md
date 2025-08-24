@@ -5,6 +5,10 @@
 ShitTTS 是一个旨在简化文本转语音操作的工具集，包含图形界面 (GUI) 和命令行 (CLI) 两个版本。它基于 `pyttsx3` 库构建，能够直接调用系统自带的 TTS 引擎进行语音合成。  
 使用Pyinstaller打包  
 
+<div align="center">
+  <img src="./assets/ShitTTS.png" alt="icon" width="500">
+</div>
+
 说明：  
 **这个项目就是个垃圾**  
 **别用**
